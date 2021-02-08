@@ -12,8 +12,7 @@ https://www.kaggle.com/chirag19/air-passengers/download
 ## Time Series Models
 The Time Series had to made **stationary**. This was done using **differencing operation** and **exponentially weighted averages**.The Time Series was analysed using **ARIMA** and later **seasonal ARIMA(SARIMA)** since normal ARIMA was unable to give good predictions. Hence SARIMA proved to be awesome. Implememntation of **AutoArima** has also been displayed which doesn't require any differencing to make series stationary or draw **acf and pacf plots** in order to determine values of order of lags of MA(p) and AR(q).
 <br>
-The above Time Series Model has also been analysed using Deep learning Techniques like Artificial Neural Networks, Convolutional Neural Networks and LSTMs and the predcitions were 
-plotted with the actual values.
+The above Time Series Model has also been analysed using Deep learning Techniques like **Artificial Neural Networks, Convolutional Neural Networks and LSTMs** and the predictions were plotted with the actual values.
 <br>
 <br>
 <br>
